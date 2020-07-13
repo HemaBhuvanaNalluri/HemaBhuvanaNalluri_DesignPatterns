@@ -2,7 +2,7 @@ package BehavioralPatternInterpreter;
 
 public class Main {
 private InterpreterEngine engine;
-    
+  
     public Main(InterpreterEngine engine) {
         this.engine = engine;
         //System.out.println("***"+engine);
